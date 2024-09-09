@@ -1,0 +1,335 @@
+* {
+    margin: 0;
+}
+
+.mary-nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.primary-color {
+    color: #FD6E0A;
+}
+
+.sojakor {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.title-of-mary {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+ul li {
+    margin-right: 50px;
+}
+
+li a {
+    text-decoration: none;
+    color: #474747;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #FD6E0A;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 18px 35px;
+    border: none;
+    font-size: 20px;
+}
+
+.baba {
+    display: flex;
+}
+
+.boro {
+    padding-left: 200px;
+    padding-top: 185px;
+}
+
+.choto {
+    margin-right: 40px;
+}
+
+.background {
+    background-color: #FFF8F3;
+    background-image: url('images/header_bg.png'), url('images/developer.png');
+    background-repeat: no-repeat;
+    background-position: right bottom, left;
+    background-size: 60vw, normal;
+    margin-bottom: 70px;
+}
+
+.btn-download-cv {
+    background-color: #FD6E0A;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 18px 35px;
+    border: none;
+    font-size: large;
+    margin-right: 20px;
+}
+
+.fa-solid fa-download {
+    padding-left: 500px;
+}
+
+.btn-contact {
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 18px 35px;
+    font-size: large;
+    border-color: #FD6E0A;
+    color: #FD6E0A;
+    background-color: transparent;
+}
+
+.hi-i-am {
+    font-weight: 400;
+    font-size: 40px;
+    height: 15px;
+    margin-bottom: 35px
+}
+
+.mary {
+    font-weight: 700;
+    font-size: 70px;
+    margin-bottom: 25px;
+}
+
+.paragraph {
+    margin-bottom: 25px;
+    color: #8a8481;
+    margin-right: 150px;
+}
+
+.background-about-me {
+    background-color: #FFF8F3;
+    border-radius: 7px;
+    size: 60px 40px;
+    padding-top: 50px;
+    padding-bottom: 90px;
+    size: 50px 50px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 130px;
+}
+
+.about-me {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.paragraph-of-main {
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-bottom: 10px;
+    /* line spacing kivabe korbo?*/
+    text-align: center;
+    color: #8a8481;
+}
+
+.p-of-main {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 190px;
+    color: #8a8481;
+}
+
+.Email {
+    padding-left: 123px;
+    padding-right: 118px;
+}
+
+.From {
+    padding-left: 144px;
+
+}
+
+.h4-of-main {
+    display: flex;
+    padding-left: 168px;
+}
+
+.info {
+    padding-left: 70px;
+    padding-right: 49px;
+}
+
+.los-angeles {
+    padding-left: 77px;
+}
+
+.what-i-do {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.p-of-what-i-do {
+    text-align: center;
+    padding-left: 290px;
+    padding-right: 290px;
+    padding-bottom: 50px;
+    color: #8a8481;
+}
+
+.section-4 {
+    display: flex;
+    padding-left: 202px;
+    padding-right: 202px;
+}
+
+.section-4-bg {
+    background-color: white;
+    text-align: center left;
+    border-radius: 5px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    margin-right: 25px;
+    box-shadow: #3f04e2;
+    background-clip: border-box;
+    filter: drop-shadow(0 0 0.75rem rgb(154, 151, 152));
+}
+
+.section-4-h4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text-height {
+    line-height: 250px;
+}
+
+.a-summary-of-my {
+    text-align: center;
+    padding: 120px;
+}
+
+.cv-devide-section {
+    display: flex;
+    padding-left: 220px;
+    padding-right: 220px;
+}
+
+.my-education-section {
+    padding-right: 30px;
+}
+
+.master-in-computer {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.list-skill-technologies {
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.btn-download-cv2 {
+    background-color: #FD6E0A;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 18px 35px;
+    border: none;
+    font-size: large;
+    margin-left: 640px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+footer {
+    font-family: "Open Sans", sans-serif;
+}
+
+.footer-bg {
+    background-color: #FFF8F3;
+    display: flex;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.lets-connect-font {
+    font-weight: 800;
+    font-size: 30px;
+
+}
+
+.DC {
+    margin-left: 10px;
+}
+
+.submit-button {
+    background-color: #FD6E0A;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 18px 35px;
+    border: none;
+    font-size: large;
+    /* margin-left: 640px;
+    margin-top: 40px;
+    margin-bottom: 50px;*/
+}
+
+.lets-connect-paragraph {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-right: 40px;
+}
+
+.logo-of-footer {
+    padding-right: 10px;
+}
+
+.form {
+    padding-left: 20px;
+    padding-right: 210px;
+    padding-top: 13px;
+    padding-bottom: 17px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.form2 {
+    padding-left: 20px;
+    padding-right: 210px;
+    padding-top: 13px;
+    padding-bottom: 97px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+
+
+
+
+.text-color {
+    color: #757575;
+}
+
+.text-color2 {
+    color: #02f806;
+}
